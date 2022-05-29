@@ -3,8 +3,9 @@
 ## Setup
 
 1- Clone the project:
-
-
+```
+https://github.com/NirmitShah02/2-Factor-Authentication.git
+```
 2- Open the folder:
 
 ```
