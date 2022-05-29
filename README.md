@@ -9,7 +9,7 @@ https://github.com/NirmitShah02/2-Factor-Authentication.git
 2- Open the folder:
 
 ```
-cd FaceRecognitionAuth
+cd 2FA
 ```
 3- Install dependencies:
 
